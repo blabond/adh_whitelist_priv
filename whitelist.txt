@@ -1,5 +1,6 @@
 # RND stuff
 
+@@||mop-veins.tk^
 @@||fritz.box^
 @@||doubleclick.net^
 @@||paypal.com^
@@ -12,7 +13,7 @@
 @@||blizzard.com^
 @@||blzddist1-a.akamaihd.net^
 @@||blizzard.gcdn.cloudn.co.kr^
-@@||www.wieistmeineip.de^
+@@||wieistmeineip.de^
 
 ! Generiert durch Merge und Bereinigung aller Teile
 

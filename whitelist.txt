@@ -15,6 +15,7 @@
 @@||blzddist1-a.akamaihd.net^
 @@||blizzard.gcdn.cloudn.co.kr^
 @@||wieistmeineip.de^
+@@||wipefest.gg^
 
 ! Generiert durch Merge und Bereinigung aller Teile
 

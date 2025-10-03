@@ -18,6 +18,14 @@
 @@||wipefest.gg^
 @@||gmx.net^
 @@||keystone.guru^
+@@||united.uimserv.net^$important
+@@||flw.wtf^
+@@||smartclip.net^
+@@||redbutton.de^
+@@||avast.com^$important
+@@||marqeta.com^
+@@||alexa.amazon.dev^$important
+@@||gmx.net^$important
 
 ! Generiert durch Merge und Bereinigung aller Teile
 

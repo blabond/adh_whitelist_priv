@@ -61,10 +61,7 @@
 @@|widget-cdn.rpxnow.com^$important
 
 # Aliexpress
-@@|ae01.alicdn.com^$important
-@@|campaign.aliexpress.com^$important
-@@|login.aliexpress.com^$important
-@@|sale.aliexpress.com^$important
+@@|aliexpress.com^$important
 
 # Amazfit / Huami / Zepp
 @@|account-de.huami.com^$important

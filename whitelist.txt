@@ -26,6 +26,7 @@
 @@||marqeta.com^
 @@||alexa.amazon.dev^$important
 @@||gmx.net^$important
+@@||keepa.com^$important
 
 ! Generiert durch Merge und Bereinigung aller Teile
 

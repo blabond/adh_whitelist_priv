@@ -159,6 +159,7 @@
 # Cloudflare
 @@|cdn.cloudflare.net^$important
 @@|cdnjs.cloudflare.com^$important
+@@|challenges.cloudflare.com^$important
 
 # cloudinary
 @@|res.cloudinary.com^$important
